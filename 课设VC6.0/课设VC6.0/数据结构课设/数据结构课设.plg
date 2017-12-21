@@ -1,0 +1,38 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 数据结构课设 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\万蔓芊\AppData\Local\Temp\RSP812E.tmp" with contents
+[
+/nologo /MLd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_CONSOLE" /D "_MBCS" /Fp"Debug/数据结构课设.pch" /YX /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"C:\Users\万蔓芊\Desktop\课设VC6.0\数据结构课设\main.cpp"
+]
+Creating command line "cl.exe @"C:\Users\万蔓芊\AppData\Local\Temp\RSP812E.tmp"" 
+Creating temporary file "C:\Users\万蔓芊\AppData\Local\Temp\RSP815E.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /nologo /subsystem:console /incremental:yes /pdb:"Debug/数据结构课设.pdb" /debug /machine:I386 /out:"Debug/数据结构课设.exe" /pdbtype:sept 
+".\Debug\main.obj"
+]
+Creating command line "link.exe @"C:\Users\万蔓芊\AppData\Local\Temp\RSP815E.tmp""
+<h3>Output Window</h3>
+Compiling...
+main.cpp
+C:\Users\万蔓芊\Desktop\课设VC6.0\数据结构课设\main.cpp(477) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\万蔓芊\Desktop\课设VC6.0\数据结构课设\main.cpp(506) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\万蔓芊\Desktop\课设VC6.0\数据结构课设\main.cpp(507) : warning C4800: 'int' : forcing value to bool 'true' or 'false' (performance warning)
+C:\Users\万蔓芊\Desktop\课设VC6.0\数据结构课设\main.cpp(894) : warning C4101: 'cities' : unreferenced local variable
+C:\Users\万蔓芊\Desktop\课设VC6.0\数据结构课设\main.cpp(892) : warning C4101: 'COMNET' : unreferenced local variable
+C:\Users\万蔓芊\Desktop\课设VC6.0\数据结构课设\main.cpp(893) : warning C4101: 'templine' : unreferenced local variable
+Linking...
+
+
+
+<h3>Results</h3>
+数据结构课设.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1472385715 source:d:\代码\线性表\main.cpp
+	<iostream>
+	<cstdlib>
+
